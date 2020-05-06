@@ -7,3 +7,5 @@ Actualmente sigue viviendo en Santiago, pero en la comuna de Puente Alto
 Hoy hablaremos de su historia.
 
 En cámara parece muy alto, pero no lo es tanto.
+
+Hoy es backend developer en Globant.
