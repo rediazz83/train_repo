@@ -8,4 +8,4 @@ Hoy hablaremos de su vida.
 
 En cámara parece muy alto, pero no lo es tanto.
 
-Hoy es backend developer en Globant.
+Hoy es developer en Globant.
